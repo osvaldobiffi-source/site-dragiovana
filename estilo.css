@@ -194,7 +194,7 @@ p{max-width:62ch}
   .topo{backdrop-filter:none;background:var(--logo-bg)}
   .topo-cta{display:none}
   .hamb{display:block}
-  .menu{position:fixed;inset:0;z-index:-1;background:var(--logo-bg);flex-direction:column;align-items:center;justify-content:center;gap:22px;font-family:var(--serif);font-size:26px;color:var(--cafe);opacity:0;visibility:hidden;transition:opacity .3s,visibility .3s}
+  .menu{position:fixed;inset:0;z-index:-1;background:var(--logo-bg);flex-direction:column;align-items:center;justify-content:center;gap:20px;padding-top:70px;font-family:var(--serif);font-size:26px;color:var(--cafe);opacity:0;visibility:hidden;transition:opacity .3s,visibility .3s}
   .menu-aberto .menu{opacity:1;visibility:visible}
   .menu .menu-cta{display:inline-flex;margin-top:14px;font-family:var(--sans);font-size:15px}
   .menu-aberto{overflow:hidden}
