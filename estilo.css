@@ -35,6 +35,7 @@ p{max-width:62ch}
 /* marcações da prévia */
 .previa-aviso{background:var(--grafite);color:#D9CFC6;font-size:13px;text-align:center;padding:9px 0;line-height:1.9}
 .tag-prev{display:inline-block;font-family:var(--sans);font-size:11.5px;font-weight:400;letter-spacing:.02em;line-height:1;padding:5px 10px;border:1px dashed var(--rose);color:var(--cafe);background:rgba(255,255,255,.75);border-radius:999px;vertical-align:middle;margin:0 3px}
+.previa-aviso a{color:#E9D3C6;border-bottom:1px solid currentColor;margin-left:6px}
 .previa-aviso .tag-prev{background:transparent;color:#E9D3C6;border-color:#B98F7C}
 .tag-prev.claro{color:var(--off);border-color:rgba(248,245,241,.8);background:rgba(255,255,255,.1)}
 .marcado .tag-prev,.ph .tag-prev{display:table;margin:0 0 10px}
