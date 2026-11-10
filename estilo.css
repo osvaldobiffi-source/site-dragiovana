@@ -74,10 +74,6 @@ h3{font-size:25px;font-weight:500}
 .hero h1 .script{display:block;font-size:1.05em;margin:8px 0 0}
 .hero .lead{font-size:19px;color:var(--texto2);max-width:500px}
 .hero-cta{display:flex;flex-wrap:wrap;gap:14px;margin-top:36px}
-.selos{list-style:none;display:flex;gap:0;margin-top:44px;border-top:1px solid rgba(141,111,96,.25);padding-top:22px;max-width:540px}
-.selos li{flex:1;font-size:13.5px;color:var(--texto2);line-height:1.45;padding-right:18px}
-.selos li+li{border-left:1px solid rgba(141,111,96,.25);padding-left:18px}
-.selos b{display:block;font-family:var(--serif);font-weight:500;font-size:20px;color:var(--cafe)}
 .hero-foto{align-self:end;display:flex;align-items:flex-end}
 .arco{width:100%;max-width:470px;margin-left:auto;aspect-ratio:4/5.2;border-radius:260px 260px 0 0;background:linear-gradient(180deg,var(--bege),var(--mocha));position:relative;overflow:hidden}
 .arco:before{content:"";position:absolute;inset:14px 14px 0;border:1px solid rgba(248,245,241,.55);border-bottom:0;border-radius:250px 250px 0 0}
@@ -246,8 +242,6 @@ h3{font-size:25px;font-weight:500}
   .hero h1{font-size:46px}
   .hero .lead{font-size:17px}
   .hero-cta .btn{width:100%}
-  .selos{flex-direction:column;gap:14px}
-  .selos li+li{border-left:0;padding-left:0}
   .btn{padding:14px 24px}
   .sinais,.condicoes,.servicos,.passos{grid-template-columns:1fr}
   .sinais div{padding:26px 24px}
